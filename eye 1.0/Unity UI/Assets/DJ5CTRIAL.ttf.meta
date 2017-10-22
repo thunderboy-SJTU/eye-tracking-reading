@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c4b936b1ef3ac4e4ca7bc01fbfb03f4f
+timeCreated: 1497887215
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: dearJoe 5 CASUAL trial
+  fontNames:
+  - dearJoe 5 CASUAL trial
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

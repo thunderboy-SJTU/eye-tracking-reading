@@ -1,0 +1,21 @@
+﻿  MinimalGazeDataStream.c
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txInitializeEyeX，该符号在函数 _main 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txUninitializeEyeX，该符号在函数 _main 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txCreateContext，该符号在函数 _main 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txReleaseContext，该符号在函数 _main 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txShutdownContext，该符号在函数 _main 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txEnableConnection，该符号在函数 _main 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txDisableConnection，该符号在函数 _main 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txRegisterConnectionStateChangedHandler，该符号在函数 _main 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txRegisterEventHandler，该符号在函数 _main 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txReleaseObject，该符号在函数 _HandleEvent 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txFormatObjectAsText，该符号在函数 ___txDbgObject 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txGetAsyncDataResultCode，该符号在函数 _OnSnapshotCommitted 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txGetAsyncDataContent，该符号在函数 _HandleEvent 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txCommitSnapshotAsync，该符号在函数 _OnEngineConnectionStateChanged 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txCreateGlobalInteractorSnapshot，该符号在函数 _InitializeGlobalInteractorSnapshot 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txCreateGazePointDataBehavior，该符号在函数 _InitializeGlobalInteractorSnapshot 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txGetGazePointDataEventParams，该符号在函数 _OnGazeDataEvent 中被引用
+MinimalGazeDataStream.obj : error LNK2019: 无法解析的外部符号 __imp__txGetEventBehavior，该符号在函数 _HandleEvent 中被引用
+Tobii.EyeX.Client.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Users\TonyMay\documents\visual studio 2015\Projects\Project1\Debug\Project1.exe : fatal error LNK1120: 18 个无法解析的外部命令

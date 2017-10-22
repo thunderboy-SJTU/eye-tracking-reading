@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f4a2adaffb3381c4e8e28388ea7498c4
+timeCreated: 1497888017
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HaTian-JingZhi
+  fontNames:
+  - HaTian-JingZhi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

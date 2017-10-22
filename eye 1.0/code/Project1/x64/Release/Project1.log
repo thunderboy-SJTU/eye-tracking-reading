@@ -1,0 +1,21 @@
+﻿生成启动时间为 2017/6/21 0:35:34。
+     1>项目“C:\Users\强\Documents\Visual Studio 2013\Projects\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2013\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt "源.cpp"
+         源.cpp
+     1>源.cpp(48): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>源.cpp(49): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>源.cpp(356): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+     1>源.cpp(434): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+     1>源.cpp(480): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+     1>源.cpp(503): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+       Link:
+         E:\vs2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\强\Documents\Visual Studio 2013\Projects\Project1\x64\Release\Project1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\强\Documents\Visual Studio 2013\Projects\Project1\x64\Release\Project1.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\强\Documents\Visual Studio 2013\Projects\Project1\x64\Release\Project1.lib" /MACHINE:X64 "x64\Release\源.obj"
+         正在生成代码
+         已完成代码的生成
+         Project1.vcxproj -> C:\Users\强\Documents\Visual Studio 2013\Projects\Project1\x64\Release\Project1.exe
+     1>已完成生成项目“C:\Users\强\Documents\Visual Studio 2013\Projects\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.43
